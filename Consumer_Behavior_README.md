@@ -28,8 +28,8 @@ This project delivers a full end-to-end analytics pipeline on consumer shopping 
 | Stage | Description | Tools |
 |---|---|---|
 | 1. Data Preparation & Modeling | Clean, transform, and engineer features from raw dataset | Python / Pandas |
-| 2. Data Analysis (SQL) | Structured schema + business intelligence queries | PostgreSQL / SQLite |
-| 3. Visualization & Insights | Interactive dashboard with KPIs and trend charts | Power BI |
+| 2. Data Analysis (SQL) | Structured schema + business intelligence queries / SQLite |
+| 3. Visualization & Insights | Interactive dashboard with KPIs and trend charts |MicrosoftPower-point |
 | 4. Report & Presentation | Key findings and recommendations for stakeholders | MS Word / PowerPoint |
 | 5. GitHub Repository | Well-structured code repository with all assets | Git / GitHub |
 
