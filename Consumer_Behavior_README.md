@@ -184,7 +184,7 @@ Key business questions answered via SQL:
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Powerpoint  Dashboard
 
 The interactive dashboard includes:
 
