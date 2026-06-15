@@ -39,6 +39,9 @@ Payment Method	Payment channel used
 Frequency of Purchases	How often the customer buys
 Discount Applied	Whether a discount was used
 Promo Code Used	Whether a promo code was applied
+
+
+
 🛠️ Tech Stack
 Tool	Purpose
 Python (Pandas, NumPy)	Data loading, cleaning, feature engineering
@@ -59,6 +62,9 @@ Most popular payment methods — bar chart
 Subscribers vs. non-subscribers spending — comparative bar chart
 Shipping type usage by purchase frequency — stacked bar chart
 Age group distribution of customers — segmented bar chart
+
+
+
 Feature Engineering
 # Age group segmentation
 labels = ['Young', 'Adult', 'Middle_aged', 'Senior']
@@ -133,6 +139,9 @@ Revenue breakdown by category, season, and age group
 Subscriber vs. non-subscriber spend comparison
 Payment method and discount usage trends
 Customer segmentation visuals
+
+
+
 📁 Repository Structure
 consumer-behavior-analytics/
 │
@@ -152,19 +161,25 @@ consumer-behavior-analytics/
 │   ├── Executive_Summary.pdf
 │   └── Presentation.pptx
 │
-└── README.md
+└── README.md4
+
+
 💡 Key Business Insights
 Discount & Promo Impact — Discount usage aligns directly with promo code application; toggling either affects the other.
 Seasonal Trends — Purchase behavior shows seasonal variation, enabling targeted campaign planning.
 Subscriber Loyalty — Subscription status is a strong signal for spending behavior and repeat purchases.
 Age-Based Revenue — Specific age segments contribute disproportionately to total revenue, enabling audience targeting.
 Payment Preferences — Gender may influence payment channel choice, informing checkout UX decisions.
+
+
+
 ✅ Actionable Recommendations
 Target high-frequency buyers with tiered loyalty rewards to increase average order value
 Launch seasonal promotions aligned with peak purchase periods identified through ANOVA
 Expand subscription program offerings — subscribers demonstrate higher spending intent
 Personalize marketing by age group based on revenue contribution analysis
-Optimize checkout experience for most-used payment methods per gender segment
+Optimize checkout experience for most-used payment methods per gender segment.
+
 📚 References
 Dataset: Kaggle — Customer Shopping Behavior
 SciPy Documentation: scipy.stats
