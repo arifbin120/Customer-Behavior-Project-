@@ -50,6 +50,8 @@ SciPy	Hypothesis testing and confidence intervals
 PostgreSQL / SQLite	SQL business queries
 Power BI	Interactive dashboards
 Git / GitHub	Version control and project hosting
+
+#
 🔍 Exploratory Data Analysis (EDA)
 Key questions answered during EDA:
 
@@ -80,7 +82,7 @@ df['purchase_frequency_days'] = df['Frequency of Purchases'].map(frequency_mappi
 # Missing value imputation
 df['Review Rating'] = df.groupby('Category')['Review Rating'] \
                         .transform(lambda x: x.fillna(x.median()))
-🧪 Hypothesis Testing & Confidence Intervals
+# 🧪 Hypothesis Testing & Confidence Intervals
 When to use which statistical technique:
 
 Technique	Use When
@@ -142,7 +144,7 @@ Customer segmentation visuals
 
 
 
-📁 Repository Structure
+# 📁 Repository Structure
 consumer-behavior-analytics/
 │
 ├── data/
@@ -164,7 +166,7 @@ consumer-behavior-analytics/
 └── README.md4
 
 
-💡 Key Business Insights
+# 💡 Key Business Insights
 Discount & Promo Impact — Discount usage aligns directly with promo code application; toggling either affects the other.
 Seasonal Trends — Purchase behavior shows seasonal variation, enabling targeted campaign planning.
 Subscriber Loyalty — Subscription status is a strong signal for spending behavior and repeat purchases.
@@ -173,14 +175,14 @@ Payment Preferences — Gender may influence payment channel choice, informing c
 
 
 
-✅ Actionable Recommendations
+# ✅ Actionable Recommendations
 Target high-frequency buyers with tiered loyalty rewards to increase average order value
 Launch seasonal promotions aligned with peak purchase periods identified through ANOVA
 Expand subscription program offerings — subscribers demonstrate higher spending intent
 Personalize marketing by age group based on revenue contribution analysis
 Optimize checkout experience for most-used payment methods per gender segment.
 
-📚 References
+# 📚 References
 Dataset: Kaggle — Customer Shopping Behavior
 SciPy Documentation: scipy.stats
 Seaborn Documentation: seaborn.pydata.org
