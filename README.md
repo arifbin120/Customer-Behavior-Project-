@@ -9,7 +9,7 @@ This project delivers a full end-to-end analytics pipeline on consumer shopping 
 🎯 Project Objectives
 Clean and prepare the consumer behavior dataset for analytical accuracy
 Organize data into a structured relational model and run SQL queries for business insights
-Build an interactive Power BI dashboard for stakeholder-ready visualizations
+Build an interactive Power point dashboard for stakeholder-ready visualizations
 Identify key purchase drivers — discounts, reviews, seasons, and payment preferences
 Apply statistical hypothesis testing and confidence intervals to validate findings
 Deliver actionable business recommendations to improve engagement and revenue
