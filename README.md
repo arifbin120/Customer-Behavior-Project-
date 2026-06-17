@@ -4,7 +4,7 @@ Business Problem Statement
 How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
 📌 Overview
-This project delivers a full end-to-end analytics pipeline on consumer shopping behavior for a leading retail company. It spans Python-based data engineering, SQL business intelligence queries, Power BI visualizations, and statistical hypothesis testing — providing actionable insights into customer purchasing patterns, loyalty drivers, and revenue optimization opportunities.
+This project delivers a full end-to-end analytics pipeline on consumer shopping behavior for a leading retail company. It spans Python-based data engineering, SQL business intelligence queries and statistical hypothesis testing — providing actionable insights into customer purchasing patterns, loyalty drivers, and revenue optimization opportunities.
 
 🎯 Project Objectives
 Clean and prepare the consumer behavior dataset for analytical accuracy
